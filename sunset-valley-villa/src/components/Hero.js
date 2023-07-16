@@ -29,7 +29,6 @@ const Hero = () => {
     <section className={styles.hero}>
       <div className={styles.carousel} style={{ backgroundImage: `url(${images[currentImage]})` }}>
         <div className={styles.container}>
-          <h1 className={styles.title}>Welcome to 16 Sunset Valley Villa</h1>
           <p className={styles.subtitle}>Family-Owned Villa Rental In Sunny North Cyprus</p>
           <a href="/availability" className={styles.button}>
             Check Availability
