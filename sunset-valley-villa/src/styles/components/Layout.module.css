@@ -1,0 +1,17 @@
+.container {
+    min-height: 100vh;
+    background-color: white;
+  }
+ 
+  .main {
+    color: #5071abff;
+    flex-grow: 1;
+  }
+  
+  .footer {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    color: #5071abff;
+  }
+  

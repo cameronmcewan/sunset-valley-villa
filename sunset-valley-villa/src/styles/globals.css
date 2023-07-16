@@ -6,6 +6,13 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+
+  /* Color palette */
+  --platinum: #e3e3dfff;
+  --true-blue: #5071abff;
+  --jordy-blue: #94b3deff;
+  --yinmn-blue: #425e91ff;
+  --dun: #cbbdabff;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,4 +32,6 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
 
